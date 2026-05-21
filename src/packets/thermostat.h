@@ -1,5 +1,6 @@
 #pragma once
 
+#include <ctime>
 #include "itp_packet.h"
 
 namespace itp_packet {
